@@ -1,0 +1,757 @@
+- git:
+    local-name: actionlib
+    uri: https://github.com/ros-gbp/actionlib-release.git
+    version: release/hydro/actionlib/1.10.3-0
+- git:
+    local-name: angles
+    uri: https://github.com/ros-gbp/geometry_angles_utils-release.git
+    version: release/hydro/angles/1.9.9-0
+- git:
+    local-name: bond_core/bond
+    uri: https://github.com/ros-gbp/bond_core-release.git
+    version: release/hydro/bond/1.7.16-0
+- git:
+    local-name: bond_core/bondcpp
+    uri: https://github.com/ros-gbp/bond_core-release.git
+    version: release/hydro/bondcpp/1.7.16-0
+- git:
+    local-name: bond_core/smclib
+    uri: https://github.com/ros-gbp/bond_core-release.git
+    version: release/hydro/smclib/1.7.16-0
+- git:
+    local-name: catkin
+    uri: https://github.com/ros-gbp/catkin-release.git
+    version: release/hydro/catkin/0.5.90-0
+- git:
+    local-name: class_loader
+    uri: https://github.com/ros-gbp/class_loader-release.git
+    version: release/hydro/class_loader/0.2.5-0
+- git:
+    local-name: cmake_modules
+    uri: https://github.com/ros-gbp/cmake_modules-release.git
+    version: release/hydro/cmake_modules/0.3.3-0
+- git:
+    local-name: common_msgs/actionlib_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/hydro/actionlib_msgs/1.10.6-0
+- git:
+    local-name: common_msgs/diagnostic_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/hydro/diagnostic_msgs/1.10.6-0
+- git:
+    local-name: common_msgs/geometry_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/hydro/geometry_msgs/1.10.6-0
+- git:
+    local-name: common_msgs/nav_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/hydro/nav_msgs/1.10.6-0
+- git:
+    local-name: common_msgs/sensor_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/hydro/sensor_msgs/1.10.6-0
+- git:
+    local-name: common_msgs/shape_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/hydro/shape_msgs/1.10.6-0
+- git:
+    local-name: common_msgs/stereo_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/hydro/stereo_msgs/1.10.6-0
+- git:
+    local-name: common_msgs/trajectory_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/hydro/trajectory_msgs/1.10.6-0
+- git:
+    local-name: common_msgs/visualization_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release.git
+    version: release/hydro/visualization_msgs/1.10.6-0
+- git:
+    local-name: console_bridge
+    uri: https://github.com/ros-gbp/console_bridge-release.git
+    version: release/hydro/console_bridge/0.2.4-1
+- git:
+    local-name: control_msgs
+    uri: https://github.com/ros-gbp/control_msgs-release.git
+    version: release/hydro/control_msgs/1.2.0-1
+- git:
+    local-name: control_toolbox
+    uri: https://github.com/ros-gbp/control_toolbox-release.git
+    version: release/hydro/control_toolbox/1.10.4-2
+- git:
+    local-name: diagnostics/diagnostic_updater
+    uri: https://github.com/ros-gbp/diagnostics-release.git
+    version: release/hydro/diagnostic_updater/1.8.8-0
+- git:
+    local-name: diagnostics/self_test
+    uri: https://github.com/ros-gbp/diagnostics-release.git
+    version: release/hydro/self_test/1.8.8-0
+- git:
+    local-name: driver_common/driver_base
+    uri: https://github.com/ros-gbp/driver_common-release.git
+    version: release/hydro/driver_base/1.6.8-0
+- git:
+    local-name: dynamic_reconfigure
+    uri: https://github.com/ros-gbp/dynamic_reconfigure-release.git
+    version: release/hydro/dynamic_reconfigure/1.5.37-0
+- git:
+    local-name: ecto
+    uri: https://github.com/ros-gbp/ecto-release.git
+    version: release/hydro/ecto/0.6.9-0
+- git:
+    local-name: ecto_image_pipeline
+    uri: https://github.com/ros-gbp/ecto_image_pipeline-release.git
+    version: release/hydro/ecto_image_pipeline/0.5.6-0
+- git:
+    local-name: ecto_opencv
+    uri: https://github.com/ros-gbp/ecto_opencv-release.git
+    version: release/hydro/ecto_opencv/0.5.6-0
+- git:
+    local-name: ecto_ros
+    uri: https://github.com/ros-gbp/ecto_ros-release.git
+    version: release/hydro/ecto_ros/0.4.6-0
+- git:
+    local-name: eigen_stl_containers
+    uri: https://github.com/ros-gbp/eigen_stl_containers-release.git
+    version: release/hydro/eigen_stl_containers/0.1.4-0
+- git:
+    local-name: fcl
+    uri: https://github.com/ros-gbp/fcl-release.git
+    version: release/hydro/fcl/0.2.9-1
+- git:
+    local-name: gazebo_ros_pkgs/gazebo_msgs
+    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release.git
+    version: release/hydro/gazebo_msgs/2.3.8-0
+- git:
+    local-name: gazebo_ros_pkgs/gazebo_plugins
+    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release.git
+    version: release/hydro/gazebo_plugins/2.3.8-0
+- git:
+    local-name: gazebo_ros_pkgs/gazebo_ros
+    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release.git
+    version: release/hydro/gazebo_ros/2.3.8-0
+- git:
+    local-name: gazebo_ros_pkgs/gazebo_ros_control
+    uri: https://github.com/ros-gbp/gazebo_ros_pkgs-release.git
+    version: release/hydro/gazebo_ros_control/2.3.8-0
+- git:
+    local-name: gencpp
+    uri: https://github.com/ros-gbp/gencpp-release.git
+    version: release/hydro/gencpp/0.4.17-0
+- git:
+    local-name: genlisp
+    uri: https://github.com/ros-gbp/genlisp-release.git
+    version: release/hydro/genlisp/0.4.15-0
+- git:
+    local-name: genmsg
+    uri: https://github.com/ros-gbp/genmsg-release.git
+    version: release/hydro/genmsg/0.4.26-0
+- git:
+    local-name: genpy
+    uri: https://github.com/ros-gbp/genpy-release.git
+    version: release/hydro/genpy/0.4.17-0
+- git:
+    local-name: geometric_shapes
+    uri: https://github.com/ros-gbp/geometric_shapes-release.git
+    version: release/hydro/geometric_shapes/0.3.9-0
+- git:
+    local-name: geometry/eigen_conversions
+    uri: https://github.com/ros-gbp/geometry-release.git
+    version: release/hydro/eigen_conversions/1.10.8-1
+- git:
+    local-name: geometry/kdl_conversions
+    uri: https://github.com/ros-gbp/geometry-release.git
+    version: release/hydro/kdl_conversions/1.10.8-1
+- git:
+    local-name: geometry/tf
+    uri: https://github.com/ros-gbp/geometry-release.git
+    version: release/hydro/tf/1.10.8-1
+- git:
+    local-name: geometry/tf_conversions
+    uri: https://github.com/ros-gbp/geometry-release.git
+    version: release/hydro/tf_conversions/1.10.8-1
+- git:
+    local-name: geometry_experimental/tf2
+    uri: https://github.com/ros-gbp/geometry_experimental-release.git
+    version: release/hydro/tf2/0.4.12-0
+- git:
+    local-name: geometry_experimental/tf2_msgs
+    uri: https://github.com/ros-gbp/geometry_experimental-release.git
+    version: release/hydro/tf2_msgs/0.4.12-0
+- git:
+    local-name: geometry_experimental/tf2_py
+    uri: https://github.com/ros-gbp/geometry_experimental-release.git
+    version: release/hydro/tf2_py/0.4.12-0
+- git:
+    local-name: geometry_experimental/tf2_ros
+    uri: https://github.com/ros-gbp/geometry_experimental-release.git
+    version: release/hydro/tf2_ros/0.4.12-0
+- git:
+    local-name: graph_msgs
+    uri: https://github.com/davetcoleman/graph_msgs-release.git
+    version: release/hydro/graph_msgs/0.0.3-0
+- git:
+    local-name: household_objects_database_msgs
+    uri: https://github.com/ros-gbp/household_objects_database_msgs-release.git
+    version: release/hydro/household_objects_database_msgs/0.1.1-0
+- git:
+    local-name: humanoid_msgs/humanoid_nav_msgs
+    uri: https://github.com/ros-gbp/humanoid_msgs-release.git
+    version: release/hydro/humanoid_nav_msgs/0.3.0-1
+- git:
+    local-name: image_common/camera_calibration_parsers
+    uri: https://github.com/ros-gbp/image_common-release.git
+    version: release/hydro/camera_calibration_parsers/1.11.5-0
+- git:
+    local-name: image_common/camera_info_manager
+    uri: https://github.com/ros-gbp/image_common-release.git
+    version: release/hydro/camera_info_manager/1.11.5-0
+- git:
+    local-name: image_common/image_transport
+    uri: https://github.com/ros-gbp/image_common-release.git
+    version: release/hydro/image_transport/1.11.5-0
+- git:
+    local-name: image_common/polled_camera
+    uri: https://github.com/ros-gbp/image_common-release.git
+    version: release/hydro/polled_camera/1.11.5-0
+- git:
+    local-name: image_pipeline/depth_image_proc
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/hydro/depth_image_proc/1.11.11-0
+- git:
+    local-name: image_pipeline/image_proc
+    uri: https://github.com/ros-gbp/image_pipeline-release.git
+    version: release/hydro/image_proc/1.11.11-0
+- git:
+    local-name: interactive_markers
+    uri: https://github.com/ros-gbp/interactive_markers-release.git
+    version: release/hydro/interactive_markers/1.10.3-0
+- git:
+    local-name: joystick_drivers/joy
+    uri: https://github.com/ros-gbp/joystick_drivers-release.git
+    version: release/hydro/joy/1.9.10-0
+- git:
+    local-name: laser_geometry
+    uri: https://github.com/ros-gbp/laser_geometry-release.git
+    version: release/hydro/laser_geometry/1.5.16-0
+- git:
+    local-name: libccd
+    uri: https://github.com/ros-gbp/libccd-release.git
+    version: release/hydro/libccd/1.4.0-1
+- git:
+    local-name: manipulation_msgs
+    uri: https://github.com/ros-gbp/manipulation_msgs-release.git
+    version: release/hydro/manipulation_msgs/0.2.0-0
+- git:
+    local-name: map_msgs
+    uri: https://github.com/ros-gbp/map_msgs-release.git
+    version: release/hydro/map_msgs/0.0.2-0
+- git:
+    local-name: media_export
+    uri: https://github.com/ros-gbp/media_export-release.git
+    version: release/hydro/media_export/0.1.0-0
+- git:
+    local-name: message_generation
+    uri: https://github.com/ros-gbp/message_generation-release.git
+    version: release/hydro/message_generation/0.2.10-0
+- git:
+    local-name: message_runtime
+    uri: https://github.com/ros-gbp/message_runtime-release.git
+    version: release/hydro/message_runtime/0.4.12-0
+- git:
+    local-name: moveit_commander
+    uri: https://github.com/ros-gbp/moveit_commander-release.git
+    version: release/hydro/moveit_commander/0.5.7-0
+- git:
+    local-name: moveit_core
+    uri: https://github.com/ros-gbp/moveit_core-release.git
+    version: release/hydro/moveit_core/0.5.11-0
+- git:
+    local-name: moveit_msgs
+    uri: https://github.com/ros-gbp/moveit_msgs-release.git
+    version: release/hydro/moveit_msgs/0.5.3-0
+- git:
+    local-name: moveit_planners/moveit_planners_ompl
+    uri: https://github.com/ros-gbp/moveit_planners-release.git
+    version: release/hydro/moveit_planners_ompl/0.5.6-0
+- git:
+    local-name: moveit_plugins/moveit_fake_controller_manager
+    uri: https://github.com/ros-gbp/moveit_plugins-release.git
+    version: release/hydro/moveit_fake_controller_manager/0.5.5-0
+- git:
+    local-name: moveit_plugins/moveit_simple_controller_manager
+    uri: https://github.com/ros-gbp/moveit_plugins-release.git
+    version: release/hydro/moveit_simple_controller_manager/0.5.5-0
+- git:
+    local-name: moveit_resources
+    uri: https://github.com/ros-gbp/moveit_resources-release.git
+    version: release/hydro/moveit_resources/0.5.0-0
+- git:
+    local-name: moveit_ros/moveit_ros_manipulation
+    uri: https://github.com/ros-gbp/moveit_ros-release.git
+    version: release/hydro/moveit_ros_manipulation/0.5.20-0
+- git:
+    local-name: moveit_ros/moveit_ros_move_group
+    uri: https://github.com/ros-gbp/moveit_ros-release.git
+    version: release/hydro/moveit_ros_move_group/0.5.20-0
+- git:
+    local-name: moveit_ros/moveit_ros_perception
+    uri: https://github.com/ros-gbp/moveit_ros-release.git
+    version: release/hydro/moveit_ros_perception/0.5.20-0
+- git:
+    local-name: moveit_ros/moveit_ros_planning
+    uri: https://github.com/ros-gbp/moveit_ros-release.git
+    version: release/hydro/moveit_ros_planning/0.5.20-0
+- git:
+    local-name: moveit_ros/moveit_ros_planning_interface
+    uri: https://github.com/ros-gbp/moveit_ros-release.git
+    version: release/hydro/moveit_ros_planning_interface/0.5.20-0
+- git:
+    local-name: moveit_ros/moveit_ros_robot_interaction
+    uri: https://github.com/ros-gbp/moveit_ros-release.git
+    version: release/hydro/moveit_ros_robot_interaction/0.5.20-0
+- git:
+    local-name: moveit_ros/moveit_ros_visualization
+    uri: https://github.com/ros-gbp/moveit_ros-release.git
+    version: release/hydro/moveit_ros_visualization/0.5.20-0
+- git:
+    local-name: moveit_ros/moveit_ros_warehouse
+    uri: https://github.com/ros-gbp/moveit_ros-release.git
+    version: release/hydro/moveit_ros_warehouse/0.5.20-0
+- git:
+    local-name: moveit_simple_grasps
+    uri: https://github.com/davetcoleman/moveit_simple_grasps-release.git
+    version: release/hydro/moveit_simple_grasps/1.1.0-0
+- git:
+    local-name: moveit_visual_tools
+    uri: https://github.com/davetcoleman/moveit_visual_tools-release.git
+    version: release/hydro/moveit_visual_tools/1.3.0-2
+- git:
+    local-name: navigation/amcl
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/amcl/1.11.16-0
+- git:
+    local-name: navigation/base_local_planner
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/base_local_planner/1.11.16-0
+- git:
+    local-name: navigation/clear_costmap_recovery
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/clear_costmap_recovery/1.11.16-0
+- git:
+    local-name: navigation/costmap_2d
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/costmap_2d/1.11.16-0
+- git:
+    local-name: navigation/map_server
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/map_server/1.11.16-0
+- git:
+    local-name: navigation/move_base
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/move_base/1.11.16-0
+- git:
+    local-name: navigation/move_base_msgs
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/move_base_msgs/1.11.16-0
+- git:
+    local-name: navigation/nav_core
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/nav_core/1.11.16-0
+- git:
+    local-name: navigation/navfn
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/navfn/1.11.16-0
+- git:
+    local-name: navigation/rotate_recovery
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/rotate_recovery/1.11.16-0
+- git:
+    local-name: navigation/voxel_grid
+    uri: https://github.com/ros-gbp/navigation-release.git
+    version: release/hydro/voxel_grid/1.11.16-0
+- git:
+    local-name: nodelet_core/nodelet
+    uri: https://github.com/ros-gbp/nodelet_core-release.git
+    version: release/hydro/nodelet/1.8.6-0
+- git:
+    local-name: nodelet_core/nodelet_topic_tools
+    uri: https://github.com/ros-gbp/nodelet_core-release.git
+    version: release/hydro/nodelet_topic_tools/1.8.6-0
+- git:
+    local-name: object_recognition_clusters
+    uri: https://github.com/pal-gbp/object_recognition_clusters-release.git
+    version: release/hydro/object_recognition_clusters/0.1.0-0
+- git:
+    local-name: object_recognition_core
+    uri: https://github.com/ros-gbp/object_recognition_core-release.git
+    version: release/hydro/object_recognition_core/0.6.5-0
+- git:
+    local-name: object_recognition_msgs
+    uri: https://github.com/ros-gbp/object_recognition_msgs-release.git
+    version: release/hydro/object_recognition_msgs/0.4.1-0
+- git:
+    local-name: object_recognition_ros
+    uri: https://github.com/ros-gbp/object_recognition_ros-release.git
+    version: release/hydro/object_recognition_ros/0.3.5-0
+- git:
+    local-name: object_recognition_tabletop
+    uri: https://github.com/ros-gbp/object_recognition_tabletop-release.git
+    version: release/hydro/object_recognition_tabletop/0.3.2-0
+- git:
+    local-name: octomap/octomap
+    uri: https://github.com/ros-gbp/octomap-release.git
+    version: release/hydro/octomap/1.6.8-0
+- git:
+    local-name: octomap_msgs
+    uri: https://github.com/ros-gbp/octomap_msgs-release.git
+    version: release/hydro/octomap_msgs/0.3.1-2
+- git:
+    local-name: ompl
+    uri: https://github.com/ros-gbp/ompl-release.git
+    version: release/hydro/ompl/0.13.0002516-0
+- git:
+    local-name: opencv2
+    uri: https://github.com/ros-gbp/opencv2-release.git
+    version: release/hydro/opencv2/2.4.9-2
+- git:
+    local-name: opencv_candidate
+    uri: https://github.com/ros-gbp/opencv_candidate-release.git
+    version: release/hydro/opencv_candidate/0.2.4-0
+- git:
+    local-name: openni2_camera
+    uri: https://github.com/ros-gbp/openni2_camera-release.git
+    version: release/hydro/openni2_camera/0.1.4-0
+- git:
+    local-name: openni2_launch
+    uri: https://github.com/ros-gbp/openni2_launch.git
+    version: release/hydro/openni2_launch/0.1.4-0
+- git:
+    local-name: openslam_gmapping
+    uri: https://github.com/ros-gbp/openslam_gmapping-release.git
+    version: release/hydro/openslam_gmapping/0.1.0-2
+- git:
+    local-name: orocos_kinematics_dynamics/orocos_kdl
+    uri: https://github.com/smits/orocos-kdl-release.git
+    version: release/hydro/orocos_kdl/1.3.0-0
+- git:
+    local-name: orocos_kinematics_dynamics/python_orocos_kdl
+    uri: https://github.com/smits/orocos-kdl-release.git
+    version: release/hydro/python_orocos_kdl/1.3.0-0
+- git:
+    local-name: pcl_conversions
+    uri: https://github.com/ros-gbp/pcl_conversions-release.git
+    version: release/hydro/pcl_conversions/0.1.6-0
+- git:
+    local-name: pcl_msgs
+    uri: https://github.com/ros-gbp/pcl_msgs-release.git
+    version: release/hydro/pcl_msgs/0.1.0-0
+- git:
+    local-name: perception_pcl/pcl_ros
+    uri: https://github.com/ros-gbp/perception_pcl-release.git
+    version: release/hydro/pcl_ros/1.1.11-0
+- git:
+    local-name: play_motion/play_motion
+    uri: https://github.com/pal-gbp/play_motion-release.git
+    version: release/hydro/play_motion/0.4.0-0
+- git:
+    local-name: play_motion/play_motion_msgs
+    uri: https://github.com/pal-gbp/play_motion-release.git
+    version: release/hydro/play_motion_msgs/0.4.0-0
+- git:
+    local-name: pluginlib
+    uri: https://github.com/ros-gbp/pluginlib-release.git
+    version: release/hydro/pluginlib/1.9.24-0
+- git:
+    local-name: python_qt_binding
+    uri: https://github.com/ros-gbp/python_qt_binding-release.git
+    version: release/hydro/python_qt_binding/0.2.16-0
+- git:
+    local-name: qt_gui_core/qt_gui
+    uri: https://github.com/ros-gbp/qt_gui_core-release.git
+    version: release/hydro/qt_gui/0.2.28-0
+- git:
+    local-name: qt_gui_core/qt_gui_py_common
+    uri: https://github.com/ros-gbp/qt_gui_core-release.git
+    version: release/hydro/qt_gui_py_common/0.2.28-0
+- git:
+    local-name: random_numbers
+    uri: https://github.com/ros-gbp/random_numbers-release.git
+    version: release/hydro/random_numbers/0.2.0-0
+- git:
+    local-name: realtime_tools
+    uri: https://github.com/ros-gbp/realtime_tools-release.git
+    version: release/hydro/realtime_tools/1.8.3-1
+- git:
+    local-name: rgbd_launch
+    uri: https://github.com/ros-gbp/rgbd_launch-release.git
+    version: release/hydro/rgbd_launch/2.0.1-0
+- git:
+    local-name: robot_model/joint_state_publisher
+    uri: https://github.com/ros-gbp/robot_model-release.git
+    version: release/hydro/joint_state_publisher/1.10.21-0
+- git:
+    local-name: robot_model/kdl_parser
+    uri: https://github.com/ros-gbp/robot_model-release.git
+    version: release/hydro/kdl_parser/1.10.21-0
+- git:
+    local-name: robot_model/resource_retriever
+    uri: https://github.com/ros-gbp/robot_model-release.git
+    version: release/hydro/resource_retriever/1.10.21-0
+- git:
+    local-name: robot_model/urdf
+    uri: https://github.com/ros-gbp/robot_model-release.git
+    version: release/hydro/urdf/1.10.21-0
+- git:
+    local-name: robot_model/urdf_parser_plugin
+    uri: https://github.com/ros-gbp/robot_model-release.git
+    version: release/hydro/urdf_parser_plugin/1.10.21-0
+- git:
+    local-name: robot_state_publisher
+    uri: https://github.com/ros-gbp/robot_state_publisher-release.git
+    version: release/hydro/robot_state_publisher/1.9.12-0
+- git:
+    local-name: ros/rosbuild
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/hydro/rosbuild/1.10.11-0
+- git:
+    local-name: ros/rosclean
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/hydro/rosclean/1.10.11-0
+- git:
+    local-name: ros/roslang
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/hydro/roslang/1.10.11-0
+- git:
+    local-name: ros/roslib
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/hydro/roslib/1.10.11-0
+- git:
+    local-name: ros/rosunit
+    uri: https://github.com/ros-gbp/ros-release.git
+    version: release/hydro/rosunit/1.10.11-0
+- git:
+    local-name: ros_comm/message_filters
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/message_filters/1.10.12-0
+- git:
+    local-name: ros_comm/rosbag
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosbag/1.10.12-0
+- git:
+    local-name: ros_comm/rosbag_storage
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosbag_storage/1.10.12-0
+- git:
+    local-name: ros_comm/rosconsole
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosconsole/1.10.12-0
+- git:
+    local-name: ros_comm/roscpp
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/roscpp/1.10.12-0
+- git:
+    local-name: ros_comm/rosgraph
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosgraph/1.10.12-0
+- git:
+    local-name: ros_comm/rosgraph_msgs
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosgraph_msgs/1.10.12-0
+- git:
+    local-name: ros_comm/roslaunch
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/roslaunch/1.10.12-0
+- git:
+    local-name: ros_comm/rosmaster
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosmaster/1.10.12-0
+- git:
+    local-name: ros_comm/rosmsg
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosmsg/1.10.12-0
+- git:
+    local-name: ros_comm/rosnode
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosnode/1.10.12-0
+- git:
+    local-name: ros_comm/rosout
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosout/1.10.12-0
+- git:
+    local-name: ros_comm/rosparam
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosparam/1.10.12-0
+- git:
+    local-name: ros_comm/rospy
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rospy/1.10.12-0
+- git:
+    local-name: ros_comm/rosservice
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rosservice/1.10.12-0
+- git:
+    local-name: ros_comm/rostest
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rostest/1.10.12-0
+- git:
+    local-name: ros_comm/rostopic
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/rostopic/1.10.12-0
+- git:
+    local-name: ros_comm/roswtf
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/roswtf/1.10.12-0
+- git:
+    local-name: ros_comm/std_srvs
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/std_srvs/1.10.12-0
+- git:
+    local-name: ros_comm/topic_tools
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/topic_tools/1.10.12-0
+- git:
+    local-name: ros_comm/xmlrpcpp
+    uri: https://github.com/ros-gbp/ros_comm-release.git
+    version: release/hydro/xmlrpcpp/1.10.12-0
+- git:
+    local-name: ros_control/controller_interface
+    uri: https://github.com/ros-gbp/ros_control-release.git
+    version: release/hydro/controller_interface/0.7.3-0
+- git:
+    local-name: ros_control/controller_manager
+    uri: https://github.com/ros-gbp/ros_control-release.git
+    version: release/hydro/controller_manager/0.7.3-0
+- git:
+    local-name: ros_control/controller_manager_msgs
+    uri: https://github.com/ros-gbp/ros_control-release.git
+    version: release/hydro/controller_manager_msgs/0.7.3-0
+- git:
+    local-name: ros_control/hardware_interface
+    uri: https://github.com/ros-gbp/ros_control-release.git
+    version: release/hydro/hardware_interface/0.7.3-0
+- git:
+    local-name: ros_control/joint_limits_interface
+    uri: https://github.com/ros-gbp/ros_control-release.git
+    version: release/hydro/joint_limits_interface/0.7.3-0
+- git:
+    local-name: ros_control/transmission_interface
+    uri: https://github.com/ros-gbp/ros_control-release.git
+    version: release/hydro/transmission_interface/0.7.3-0
+- git:
+    local-name: ros_controllers/diff_drive_controller
+    uri: https://github.com/ros-gbp/ros_controllers-release.git
+    version: release/hydro/diff_drive_controller/0.7.3-0
+- git:
+    local-name: ros_controllers/forward_command_controller
+    uri: https://github.com/ros-gbp/ros_controllers-release.git
+    version: release/hydro/forward_command_controller/0.7.3-0
+- git:
+    local-name: ros_controllers/joint_state_controller
+    uri: https://github.com/ros-gbp/ros_controllers-release.git
+    version: release/hydro/joint_state_controller/0.7.3-0
+- git:
+    local-name: ros_controllers/joint_trajectory_controller
+    uri: https://github.com/ros-gbp/ros_controllers-release.git
+    version: release/hydro/joint_trajectory_controller/0.7.3-0
+- git:
+    local-name: rosbag_migration_rule
+    uri: https://github.com/ros-gbp/rosbag_migration_rule-release.git
+    version: release/hydro/rosbag_migration_rule/1.0.0-0
+- git:
+    local-name: rosconsole_bridge
+    uri: https://github.com/ros-gbp/rosconsole_bridge-release.git
+    version: release/hydro/rosconsole_bridge/0.3.4-0
+- git:
+    local-name: roscpp_core/cpp_common
+    uri: https://github.com/ros-gbp/roscpp_core-release.git
+    version: release/hydro/cpp_common/0.4.4-0
+- git:
+    local-name: roscpp_core/roscpp_serialization
+    uri: https://github.com/ros-gbp/roscpp_core-release.git
+    version: release/hydro/roscpp_serialization/0.4.4-0
+- git:
+    local-name: roscpp_core/roscpp_traits
+    uri: https://github.com/ros-gbp/roscpp_core-release.git
+    version: release/hydro/roscpp_traits/0.4.4-0
+- git:
+    local-name: roscpp_core/rostime
+    uri: https://github.com/ros-gbp/roscpp_core-release.git
+    version: release/hydro/rostime/0.4.4-0
+- git:
+    local-name: roslint
+    uri: https://github.com/ros-gbp/roslint-release.git
+    version: release/hydro/roslint/0.9.2-0
+- git:
+    local-name: rospack
+    uri: https://github.com/ros-gbp/rospack-release.git
+    version: release/hydro/rospack/2.1.25-0
+- git:
+    local-name: rqt/rqt_gui
+    uri: https://github.com/ros-gbp/rqt-release.git
+    version: release/hydro/rqt_gui/0.2.14-1
+- git:
+    local-name: rqt/rqt_gui_py
+    uri: https://github.com/ros-gbp/rqt-release.git
+    version: release/hydro/rqt_gui_py/0.2.14-1
+- git:
+    local-name: rqt_common_plugins/rqt_plot
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release.git
+    version: release/hydro/rqt_plot/0.3.12-0
+- git:
+    local-name: rqt_common_plugins/rqt_py_common
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release.git
+    version: release/hydro/rqt_py_common/0.3.12-0
+- git:
+    local-name: rviz
+    uri: https://github.com/ros-gbp/rviz-release.git
+    version: release/hydro/rviz/1.10.20-0
+- git:
+    local-name: shape_tools
+    uri: https://github.com/ros-gbp/shape_tools-release.git
+    version: release/hydro/shape_tools/0.2.1-0
+- git:
+    local-name: slam_gmapping/gmapping
+    uri: https://github.com/ros-gbp/slam_gmapping-release.git
+    version: release/hydro/gmapping/1.3.5-0
+- git:
+    local-name: srdfdom
+    uri: https://github.com/ros-gbp/srdfdom-release.git
+    version: release/hydro/srdfdom/0.2.6-0
+- git:
+    local-name: std_msgs
+    uri: https://github.com/ros-gbp/std_msgs-release.git
+    version: release/hydro/std_msgs/0.5.8-0
+- git:
+    local-name: teleop_tools/joy_teleop
+    uri: https://github.com/ros-gbp/teleop_tools-release.git
+    version: release/hydro/joy_teleop/0.1.1-0
+- git:
+    local-name: urdfdom
+    uri: https://github.com/ros-gbp/urdfdom-release.git
+    version: release/hydro/urdfdom/0.2.10-3
+- git:
+    local-name: urdfdom_headers
+    uri: https://github.com/ros-gbp/urdfdom_headers-release.git
+    version: release/hydro/urdfdom_headers/0.2.3-1
+- git:
+    local-name: vision_opencv/cv_bridge
+    uri: https://github.com/ros-gbp/vision_opencv-release.git
+    version: release/hydro/cv_bridge/1.10.18-0
+- git:
+    local-name: vision_opencv/image_geometry
+    uri: https://github.com/ros-gbp/vision_opencv-release.git
+    version: release/hydro/image_geometry/1.10.18-0
+- git:
+    local-name: warehouse_ros
+    uri: https://github.com/ros-gbp/warehouse_ros-release.git
+    version: release/hydro/warehouse_ros/0.8.8-0
+- git:
+    local-name: xacro
+    uri: https://github.com/ros-gbp/xacro-release.git
+    version: release/hydro/xacro/1.8.6-0
+- git:
+    local-name: xdot
+    uri: https://github.com/jbohren/xdot-release.git
+    version: release/hydro/xdot/1.10.0-0
+
