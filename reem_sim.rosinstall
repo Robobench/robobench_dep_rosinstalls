@@ -1,0 +1,30 @@
+- git: {local-name: ros_controllers, uri: 'https://github.com/robobench/ros_controllers',
+    version: icra-2016}
+- git: {local-name: ros_control, uri: 'https://github.com/robobench/ros_control',
+    version: icra-2016}
+- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/robobench/gazebo_ros_pkgs',
+    version: icra-2016}
+- git: {local-name: moveit_ros, uri: 'https://github.com/robobench/moveit_ros.git',
+    version: icra-2016}
+- git: {local-name: play_motion, uri: 'https://github.com/robobench/play_motion',
+    version: icra-2016}
+- git: {local-name: joy_teleop, uri: 'https://github.com/robobench/teleop_tools',
+    version: icra-2016}
+- git: {local-name: pal_gazebo_plugins, uri: 'https://github.com/robobench/pal_gazebo_plugins',
+    version: icra-2016}
+- git: {local-name: pal_msgs, uri: 'https://github.com/robobench/pal_msgs', version: icra-2016}
+- git: {local-name: tf_lookup, uri: 'https://github.com/robobench/tf_lookup', version: icra-2016}
+- git: {local-name: reem_robot, uri: 'https://github.com/robobench/reem_robot',
+    version: icra-2016}
+- git: {local-name: reem_simulation, uri: 'https://github.com/robobench/reem_simulation',
+    version: icra-2016}
+- git: {local-name: reem_moveit_config, uri: 'https://github.com/robobench/reem_moveit_config',
+    version: icra-2016}
+- git: {local-name: reem_navigation, uri: 'https://github.com/robobench/reem_navigation',
+    version: icra-2016}
+- git: {local-name: reem_rgbd_launch, uri: 'https://github.com/robobench/reem_rgbd_launch.git', version: icra-2016}
+- git: {local-name: moveit_simple_grasps, uri: 'https://github.com/robobench/moveit_simple_grasps.git', version: icra-2016}
+- git: {local-name: object_recognition_clusters, uri: 'https://github.com/robobench/object_recognition_clusters.git', version: icra-2016}
+- git: {local-name: reem_snippets, uri: 'https://github.com/robobench/reem_snippets'}
+- git: {local-name: moveit_grasping_testing, uri: 'https://github.com/robobench/moveit_grasping_testing.git', version: icra-2016}
+- git: {local-name: reem_tabletop_grasping, uri: 'https://github.com/robobench/reem_tabletop_grasping.git', version: icra-2016}
