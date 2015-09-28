@@ -28,3 +28,4 @@
 - git: {local-name: reem_snippets, uri: 'https://github.com/robobench/reem_snippets'}
 - git: {local-name: moveit_grasping_testing, uri: 'https://github.com/robobench/moveit_grasping_testing.git', version: icra-2016}
 - git: {local-name: reem_tabletop_grasping, uri: 'https://github.com/robobench/reem_tabletop_grasping.git', version: icra-2016}
+- git: {local-name: reem_object_recognition, uri: 'https://github.com/robobench/reem_object_recognition.git', version: icra-2016}
