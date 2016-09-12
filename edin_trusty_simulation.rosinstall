@@ -1,0 +1,28 @@
+- git:
+    local-name: haf_grasping
+    uri: https://github.com/davidfischinger/haf_grasping
+    version: indigo
+- git:
+    local-name: moveit_pr2
+    uri: https://github.com/ros-planning/moveit_pr2
+    version: indigo
+- git:
+    local-name: pr2_apps
+    uri: https://github.com/PR2/pr2_apps.git
+    version: indigo
+- git:
+    local-name: pr2_common
+    uri: https://github.com/PR2/pr2_common.git
+    version: indigo
+- git:
+    local-name: pr2_robot
+    uri: https://github.com/PR2/pr2_robot.git
+    version: indigo
+- git:
+    local-name: pr2_simulator
+    uri: https://github.com/PR2/pr2_simulator.git
+    version: indigo
+- git:
+    local-name: rad_pr2_stack
+    uri: https://github.com/ipab-rad/rad_pr2_stack
+    version: indigo
